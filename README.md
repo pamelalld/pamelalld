@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pamela</h1>
-<h3 align="center">A computer science student at Universidade Federal de Viçosa - Campus Florestal</h3>
+
+A computer science student at Universidade Federal de Viçosa - Campus Florestal
 
 - 🔭 I’m currently working on **Algorithms and data structs and back-end web development.**
 
