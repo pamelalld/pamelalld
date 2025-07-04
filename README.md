@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pamela</h1>
+<div align="center">
+  <img height="50" src="https://i.gifer.com/4OKl.gif"  />
+</div>
+
+<h1>Hi 👋, I'm Pamela</h1>
 
 A computer science student at Universidade Federal de Viçosa - Campus Florestal
 
