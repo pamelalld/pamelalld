@@ -6,9 +6,9 @@
 
   A computer science student at Universidade Federal de Viçosa - Campus Florestal
 
-🔭 I’m currently working on **Algorithms and data structs and back-end web development.**
+🔭 I’m currently working on **Algorithms and data structs** and **back-end web development.**
 
-🌱 I’m currently learning **Java and competitive programming.**
+🌱 I’m currently learning **Java** and **competitive programming.**
 
 📫 How to reach me **pamela.diniz@ufv.br**
 
