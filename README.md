@@ -4,6 +4,7 @@
   <img src="https://i.gifer.com/4OKl.gif" height="100" width="100" />
 </div>
 
+
   A computer science student at Universidade Federal de Viçosa - Campus Florestal
 
 🔭 I’m currently working on **algorithms and data structs** and **back-end web development.**
