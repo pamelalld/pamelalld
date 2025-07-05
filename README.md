@@ -28,12 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/pamelalld" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - pamelalld" height="30" width="40" />
-  </a>
-  <a href="mailto:pamela.diniz@ufv.br" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email - pamela.diniz@ufv.br" height="30" width="40" />
-  </a>
+ <a href="https://linkedin.com/in/pamelalld" target="_blank"><img align="Center" height="30em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="mailto:pamela.diniz@ufv.br" target="_blank"><img align="center" src="https://" target="_blank"><img align="Center" height="30em" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+
 </p>
 
 
