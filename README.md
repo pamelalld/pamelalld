@@ -7,10 +7,6 @@
 
   A computer science student at Universidade Federal de Viçosa - Campus Florestal
 
-🔭 I’m currently working on **algorithms and data structures** and **back-end web development.**
-
-🌱 I’m currently learning **Java** and **competitive programming.**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
