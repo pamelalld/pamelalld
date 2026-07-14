@@ -1,5 +1,5 @@
 <h1>Hello, I'm Pamela. </h1>
-  I'm a Computer Science student at Federal University of Viçosa.
+  I'm a Computer Science student at Universidade Federal de Viçosa.
 <p align="left"> 
   My current areas of study include AIoT, backend development and competitive programming.
 </p>
